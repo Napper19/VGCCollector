@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dbsparkingzero" size="40.000000 50.743309" />
+    <ImageTarget name="istockphoto-522119064-612x612" size="100.000000 100.000000" />
+    <ImageTarget name="gravel" size="100.000000 70.000000" />
+    <ImageTarget name="Logo_unicam" size="100.000000 50.000000" />
+  </Tracking>
+</QCARConfig>
